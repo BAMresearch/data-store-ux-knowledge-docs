@@ -14,10 +14,10 @@ Copyright &copy; 2026 The BAM Data Store Team. All rights reserved.
 """
 
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "Get started" = "index.md" },
+  { "Markdown in 5min" = "markdown.md" },
+]
 
 
 # ----------------------------------------------------------------------------
